@@ -6,4 +6,4 @@ Hi, I’m Anny Serpa, I'm a Front End programmer, currently I'm learning and cre
 <br>
 <br>
 ### Connect with me
-<a href="https://www.linkedin.com/in/anny-serpa-336728260/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+<a href="https://www.linkedin.com/in/anny-serpa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
